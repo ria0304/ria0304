@@ -1,7 +1,3 @@
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=120&section=header&text=Hi%2C%20I'm%20Ria%20👋&fontSize=36&fontColor=ffffff&fontAlignY=65" />
-
 </div>
 
 <div align="center">
@@ -11,9 +7,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ria-s-471902330/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0304rias@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ria0304.github.io/portfolio/)
 
 </div>
-
 ---
 
 ## 👩‍💻 About Me
