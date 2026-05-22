@@ -32,12 +32,35 @@ ria = {
 
 ## 🚀 Featured Projects
 
+---
+
+### 🎨 WYA — What's Your Aesthetic &nbsp; *(Flagship Project)*
+
+> *Ever felt like your style exists but you just can't name it?*
+
+**WYA** is a full-stack web application that helps users **discover, analyze, and refine their personal aesthetic identity**. Through an interactive quiz and visual mood board engine, WYA maps your preferences to aesthetic categories — from Dark Academia to Cottagecore — and curates a personalized style profile just for you.
+
+🔗 **[View Project →](https://github.com/ria0304/WYA-Whats-Your-Aesthetic)**
+
+```
+✦ Full-stack web app             ✦ Aesthetic classification engine
+✦ Personalized style profiles    ✦ Visual mood board generation
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+### 📚 Other Projects
+
 | Project | Description | Tech |
 |--------|-------------|------|
 | [📚 BookNest+](https://github.com/ria0304/BOOKNEST) | Smart reading platform with mood-based & behavior-driven book recommendations | TypeScript · React · ML |
-| [🎨 WYA](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | Discover & refine your personal aesthetic style — full-stack web app | Python · Flask |
 | [🔥 Calories Burnt Predictor](https://github.com/ria0304/Calories-Burnt-Prediction) | ML model predicting calories burnt using physiological features | Python · Scikit-learn |
-| [💳 Credit Card Fraud Detection](https://github.com/ria0304/CREDIT-CARD-DETECTION) | GNN-powered fraud detection with transaction graph analysis | Python · PyTorch Geometric |
+| [₿ Bitcoin Fraud Detection](https://github.com/ria0304/CREDIT-CARD-DETECTION) | GNN-powered Bitcoin fraud detection using transaction graph analysis | Python · PyTorch Geometric |
 | [📱 Smart Resale](https://github.com/ria0304/smart-resale) | Predicts fair resale prices for used phones & laptops | Python · Pandas · Scikit-learn |
 
 ---
