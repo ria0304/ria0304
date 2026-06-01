@@ -14,13 +14,14 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ria0304.github.io/portfolio/)
 
 </div>
+
 ---
 
 ## 👩‍💻 About Me
 
 ```python
 ria = {
-    "currently_building": ["BookNest+ 📚", "WYA – What's Your Aesthetic 🎨"],
+    "currently_building": ["BookNest+ 📚", "flowWrite ✍️"],
     "studying":           "CS & Data Science @ MUJ (2nd year)",
     "interests":          ["Full-Stack Dev", "Machine Learning", "Data Science"],
     "stack":              ["Python", "TypeScript", "React", "Flask", "Scikit-learn"],
@@ -58,9 +59,8 @@ ria = {
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [✍️ flowWrite](https://github.com/ria0304/flowWrite--ai-text-humanizer) | Multi-pass NLP pipeline that rewrites AI-generated text into natural human-like writing with tone control & HLS scoring | Python · NLP |
 | [📚 BookNest+](https://github.com/ria0304/BOOKNEST) | Smart reading platform with mood-based & behavior-driven book recommendations | TypeScript · React · ML |
-| [🔥 Calories Burnt Predictor](https://github.com/ria0304/Calories-Burnt-Prediction) | ML model predicting calories burnt using physiological features | Python · Scikit-learn |
-| [₿ Bitcoin Fraud Detection](https://github.com/ria0304/CREDIT-CARD-DETECTION) | GNN-powered Bitcoin fraud detection using transaction graph analysis | Python · PyTorch Geometric |
 | [📱 Smart Resale](https://github.com/ria0304/smart-resale) | Predicts fair resale prices for used phones & laptops | Python · Pandas · Scikit-learn |
 
 ---
@@ -78,6 +78,7 @@ ria = {
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -115,6 +116,7 @@ ria = {
 ## 🌱 Currently
 
 - 🔨 Building **BookNest+** — a context-aware, mood-based reading platform
+- ✍️ Building **flowWrite** — AI text humanizer with tone control & Human Likeness Score
 - 🎯 Deepening my ML knowledge: GNNs, recommendation systems
 - 🌐 Exploring backend architecture & API design
 
