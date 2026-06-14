@@ -21,10 +21,10 @@
 
 ```python
 ria = {
-    "currently_building": ["BookNest+ 📚", "flowWrite ✍️"],
+    "currently_building": ["WYA 🎨", "Luna ✨", "BookNest+ 📚", "flowWrite ✍️"],
     "studying":           "CS & Data Science @ MUJ (2nd year)",
     "interests":          ["Full-Stack Dev", "Machine Learning", "Data Science"],
-    "stack":              ["Python", "TypeScript", "React", "Flask", "Scikit-learn"],
+    "stack":              ["Python", "TypeScript", "React", "FastAPI", "Scikit-learn"],
     "fun_fact":           "I build apps to solve problems I actually have 🚀"
 }
 ```
@@ -39,19 +39,44 @@ ria = {
 
 > *Ever felt like your style exists but you just can't name it?*
 
-**WYA** is a full-stack web application that helps users **discover, analyze, and refine their personal aesthetic identity**. Through an interactive quiz and visual mood board engine, WYA maps your preferences to aesthetic categories — from Dark Academia to Cottagecore — and curates a personalized style profile just for you.
+**WYA** is a full-stack AI-powered wardrobe intelligence platform. It analyses your wardrobe, builds a Style DNA profile, generates outfit combinations, and surfaces wardrobe gaps — all backed by a production FastAPI backend running on AWS EC2 behind CloudFront.
 
 🔗 **[View Project →](https://github.com/ria0304/WYA-Whats-Your-Aesthetic)**
 
 ```
-✦ Full-stack web app             ✦ Aesthetic classification engine
-✦ Personalized style profiles    ✦ Visual mood board generation
+✦ FastAPI backend on AWS EC2          ✦ FashionCLIP AI tagging pipeline
+✦ JWT authentication                  ✦ Style DNA engine
+✦ Gap analysis with affiliate mapping ✦ Outfit generation
+✦ Sustainability scoring              ✦ CloudFront + S3 deployment
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+### ✨ Luna — Conversational AI Stylist &nbsp; *(Building Now)*
+
+> *Talk to your wardrobe in plain English.*
+
+**Luna** is a standalone conversational frontend that connects to WYA's fashion intelligence API. Instead of navigating menus, you just talk — Luna classifies your intent, routes it to the right WYA endpoint, and responds with real outfits, real wardrobe gaps, and real style insights from your actual closet.
+
+🔗 **[View Project →](https://github.com/ria0304/luna-stylist)**
+
+```
+✦ Natural language intent classifier  ✦ Zero backend of its own
+✦ Routes to WYA's real API            ✦ React + TypeScript
+✦ Wardrobe search, outfit help        ✦ Deployed on AWS S3 + CloudFront
+✦ Gap analysis, Style DNA chat        ✦ JWT auth via WYA
+```
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
@@ -60,7 +85,8 @@ ria = {
 | Project | Description | Tech |
 |--------|-------------|------|
 | [✍️ flowWrite](https://github.com/ria0304/flowWrite--ai-text-humanizer) | Multi-pass NLP pipeline that rewrites AI-generated text into natural human-like writing with tone control & HLS scoring | Python · NLP |
-| [📚 BookNest+](https://github.com/ria0304/BOOKNEST) | Smart reading platform with mood-based & behavior-driven book recommendations | TypeScript · React · ML |
+| [📚 BookNest+](https://github.com/ria0304/BOOKNEST-) | Smart reading platform with mood-based & behavior-driven book recommendations | TypeScript · React · ML |
+| [₿ Bitcoin Fraud Detection](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | Graph Neural Network model that detects fraudulent bitcoin transactions using temporal & relational patterns | Python · GNN · PyTorch |
 | [📱 Smart Resale](https://github.com/ria0304/smart-resale) | Predicts fair resale prices for used phones & laptops | Python · Pandas · Scikit-learn |
 
 ---
@@ -77,8 +103,8 @@ ria = {
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -86,8 +112,8 @@ ria = {
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **Tools**
 
@@ -115,10 +141,12 @@ ria = {
 
 ## 🌱 Currently
 
-- 🔨 Building **BookNest+** — a context-aware, mood-based reading platform
+- 🎨 Deploying **WYA** — full-stack AI wardrobe platform on AWS
+- ✨ Building **Luna** — conversational AI stylist powered by WYA's API
+- 📚 Building **BookNest+** — context-aware, mood-based reading platform
 - ✍️ Building **flowWrite** — AI text humanizer with tone control & Human Likeness Score
-- 🎯 Deepening my ML knowledge: GNNs, recommendation systems
-- 🌐 Exploring backend architecture & API design
+- 🎯 Deepening ML knowledge: GNNs, recommendation systems, embeddings
+- 🌐 Exploring backend architecture, API design & cloud infrastructure
 
 ---
 
