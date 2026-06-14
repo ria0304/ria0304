@@ -21,7 +21,7 @@
 
 ```python
 ria = {
-    "currently_building": ["WYA 🎨", "Luna ✨", "BookNest+ 📚", "flowWrite ✍️"],
+    "currently_building": ["WYA 🎨", "Luna ✨"],
     "studying":           "CS & Data Science @ MUJ (2nd year)",
     "interests":          ["Full-Stack Dev", "Machine Learning", "Data Science"],
     "stack":              ["Python", "TypeScript", "React", "FastAPI", "Scikit-learn"],
@@ -143,8 +143,6 @@ ria = {
 
 - 🎨 Deploying **WYA** — full-stack AI wardrobe platform on AWS
 - ✨ Building **Luna** — conversational AI stylist powered by WYA's API
-- 📚 Building **BookNest+** — context-aware, mood-based reading platform
-- ✍️ Building **flowWrite** — AI text humanizer with tone control & Human Likeness Score
 - 🎯 Deepening ML knowledge: GNNs, recommendation systems, embeddings
 - 🌐 Exploring backend architecture, API design & cloud infrastructure
 
