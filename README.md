@@ -21,7 +21,8 @@
 
 ```python
 ria = {
-    "currently_building": ["WYA 🎨", "Luna ✨", "Velaris 💎"],
+    "currently_building": ["Velaris 💎"],
+    "shipped":            ["WYA 🎨", "Luna ✨"],
     "studying":           "CS & Data Science @ MUJ (2nd year)",
     "interests":          ["Full-Stack Dev", "Machine Learning", "Data Science"],
     "stack":              ["Python", "TypeScript", "React", "FastAPI", "Scikit-learn"],
