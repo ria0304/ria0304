@@ -21,7 +21,7 @@
 
 ```python
 ria = {
-    "currently_building": ["WYA 🎨", "Luna ✨"],
+    "currently_building": ["WYA 🎨", "Luna ✨", "Velaris 💎"],
     "studying":           "CS & Data Science @ MUJ (2nd year)",
     "interests":          ["Full-Stack Dev", "Machine Learning", "Data Science"],
     "stack":              ["Python", "TypeScript", "React", "FastAPI", "Scikit-learn"],
@@ -77,6 +77,28 @@ ria = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+---
+
+### 💎 Velaris — From Inspiration to Jewellery Design &nbsp; *(Currently Building)*
+
+> *Type it. Sketch it. Upload it. Get a jewellery design you can actually build.*
+
+**Velaris** is an AI-powered jewellery design tool that transforms natural language descriptions, sketches, or inspiration images into professional design concepts and manufacturer-ready briefs — bridging the gap between a customer's idea and a jeweller's workflow.
+
+🔗 **[View Project →](https://github.com/ria0304/Velaris-From-Inspiration-to-Jewellery-Design)**
+
+```
+✦ Text / sketch / photo input          ✦ AI concept image generation
+✦ Structured specification sheets      ✦ Exportable PDF design briefs
+✦ Manufacturer-ready output            ✦ Planned: multi-view & cost estimation
+```
+
+**Core flow:** User input (text/sketch/photo) → AI concept image → structured spec sheet (type, metal, stone, cut, style, setting, occasion) → exportable PDF for jeweller quotation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF%20Export-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)
 
 ---
 
@@ -143,6 +165,7 @@ ria = {
 
 - 🎨 Deploying **WYA** — full-stack AI wardrobe platform on AWS
 - ✨ Building **Luna** — conversational AI stylist powered by WYA's API
+- 💎 Building **Velaris** — AI jewellery design tool, idea to manufacturable brief
 - 🎯 Deepening ML knowledge: GNNs, recommendation systems, embeddings
 - 🌐 Exploring backend architecture, API design & cloud infrastructure
 
