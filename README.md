@@ -59,7 +59,7 @@ ria = {
 
 ---
 
-### ✨ Luna — Conversational AI Stylist &nbsp; *(Building Now)*
+### ✨ Luna — Conversational AI Stylist &nbsp; *(Part of wya )*
 
 > *Talk to your wardrobe in plain English.*
 
