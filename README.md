@@ -68,7 +68,7 @@ ria = {
 🔗 **[View Project →](https://github.com/ria0304/luna-stylist)**
 
 ```
-✦ Natural language intent classifier  ✦ Zero backend of its own
+✦ Natural language intent classifier  ✦ uses LLM to answer any fashion related question
 ✦ Routes to WYA's real API            ✦ React + TypeScript
 ✦ Wardrobe search, outfit help        ✦ Deployed on AWS S3 + CloudFront
 ✦ Gap analysis, Style DNA chat        ✦ JWT auth via WYA
