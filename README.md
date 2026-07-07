@@ -6,9 +6,6 @@
 
 <div align="center">
 
-
-
-
 ### 2nd Year CS & Data Science @ Manipal University Jaipur
 **Full-Stack Developer · ML Engineer · Building things that matter**
 
