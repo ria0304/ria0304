@@ -6,7 +6,9 @@
 
 <div align="center">
 
+
 ### 2nd Year CS & Data Science @ Manipal University Jaipur
+
 **Full-Stack Developer · ML Engineer · Building things that matter**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ria-s-471902330/)
