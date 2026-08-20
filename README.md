@@ -22,12 +22,13 @@
 
 ```python
 ria = {
-    "currently_building": ["Velaris 💎"],
-    "shipped":            ["WYA 🎨", "Luna ✨"],
-    "studying":           "CS & Data Science @ MUJ (2nd year)",
-    "interests":          ["Full-Stack Dev", "Machine Learning", "Data Science"],
-    "stack":              ["Python", "TypeScript", "React", "FastAPI", "Scikit-learn"],
-    "fun_fact":           "I build apps to solve problems I actually have 🚀"
+    "currently_building":         ["Velaris 💎","TryOn"],
+    "research_projects":          ["WYA", "Glowing Guide", "TryOn"],
+    "shipped":                    ["WYA 🎨", "Luna ✨"],
+    "studying":                   "CS & Data Science @ MUJ (3rd year)",
+    "interests":                  ["Full-Stack Dev", "Machine Learning", "Data Science"],
+    "stack":                      ["Python",  "React", "FastAPI", "Scikit-learn"],
+    "fun_fact":                   "I build apps to solve problems I actually have 🚀"
 }
 ```
 
@@ -41,7 +42,7 @@ ria = {
 
 > *Ever felt like your style exists but you just can't name it?*
 
-**WYA** is a full-stack AI-powered wardrobe intelligence platform. It analyses your wardrobe, builds a Style DNA profile, generates outfit combinations, and surfaces wardrobe gaps — all backed by a production FastAPI backend running on AWS EC2 behind CloudFront.
+**WYA** is a full-stack AI-powered wardrobe intelligence platform. It analyses your wardrobe, builds a Style DNA profile, generates outfit combinations, and surfaces wardrobe gaps — all backed by a Deploying WYA — full-stack AI wardrobe platform on AWS
 
 🔗 **[View Project →](https://github.com/ria0304/WYA-Whats-Your-Aesthetic)**
 
