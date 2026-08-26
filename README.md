@@ -6,9 +6,7 @@
 
 <div align="center">
 
-### 3rd Year CS & Data Science @ Manipal University Jaipur
-
-**Full-Stack Developer · ML Engineer · Building things that matter**
+### 3rd Year CS & Data Science @ Manipal University jaipur
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ria-s-471902330/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0304rias@gmail.com)
