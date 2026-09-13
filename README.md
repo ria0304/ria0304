@@ -21,12 +21,12 @@
 ```python
 ria = {
     "currently_building":         ["Velaris 💎","TryOn"],
-    "research_projects":          ["WYA", "FairFaceGuard", "TryOn"],
+    "research_projects":          ["WYA", "FairFaceGuard", "TryOn","HydroDrive-DQN"],
     "shipped":                    ["WYA 🎨", "Luna ✨"],
     "studying":                   "CS & Data Science @ MUJ (3rd year)",
     "interests":                  ["Full-Stack Dev", "Machine Learning", "Data Science"],
     "stack":                      ["Python",  "React", "FastAPI", "Scikit-learn"],
-    "fun_fact":                   "I build apps to solve problems I actually have 🚀"
+    "fun_fact":                   "I build apps to solve problems I actually have "
 }
 ```
 
