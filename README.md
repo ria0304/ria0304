@@ -20,7 +20,7 @@
 
 ```python
 ria = {
-    "currently_building":         ["Velaris 💎","TryOn"],
+    "currently_building":         ["Velaris 💎","TryOn","HydroDrive-DQN"],
     "research_projects":          ["WYA", "FairFaceGuard", "TryOn","HydroDrive-DQN"],
     "shipped":                    ["WYA 🎨", "Luna ✨"],
     "studying":                   "CS & Data Science @ MUJ (3rd year)",
