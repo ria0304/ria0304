@@ -21,7 +21,7 @@
 ```python
 ria = {
     "currently_building":         ["Velaris 💎","LUMEN","VisualGuard-LVLM"],
-    "research_projects":          ["WYA", "FairFaceGuard", "TryOn","HydroDrive-DQN","VisualGuard-LVLM",""Velaris ","bitcoin-fraud-detection"],
+    "research_projects":          ["WYA", "FairFaceGuard", "TryOn","HydroDrive-DQN","VisualGuard-LVLM","Velaris "],
     "shipped":                    ["WYA ", "Luna ✨"],
     "studying":                   "CS & Data Science @ MUJ (3rd year)",
     "interests":                  ["Full-Stack Dev", "Machine Learning", "Data Science"],
