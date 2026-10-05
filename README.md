@@ -20,9 +20,9 @@
 
 ```python
 ria = {
-    "currently_building":         ["Velaris 💎","LUMEN","HydroDrive-DQN"],
-    "research_projects":          ["WYA", "FairFaceGuard", "TryOn","HydroDrive-DQN"],
-    "shipped":                    ["WYA 🎨", "Luna ✨"],
+    "currently_building":         ["Velaris 💎","LUMEN","VisualGuard-LVLM"],
+    "research_projects":          ["WYA", "FairFaceGuard", "TryOn","HydroDrive-DQN","VisualGuard-LVLM",""Velaris ","bitcoin-fraud-detection"],
+    "shipped":                    ["WYA ", "Luna ✨"],
     "studying":                   "CS & Data Science @ MUJ (3rd year)",
     "interests":                  ["Full-Stack Dev", "Machine Learning", "Data Science"],
     "stack":                      ["Python",  "React", "FastAPI", "Scikit-learn"],
