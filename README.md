@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 3rd Year CS & Data Science @ Manipal University jaipur
+### 3rd Year CS & Data Science @ Manipal University Jaipur
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ria-s-471902330/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0304rias@gmail.com)
@@ -40,7 +40,7 @@ ria = {
 
 > *Ever felt like your style exists but you just can't name it?*
 
-**WYA** is a full-stack AI-powered wardrobe intelligence platform. It analyses your wardrobe, builds a Style DNA profile, generates outfit combinations, and surfaces wardrobe gaps — all backed by a Deploying WYA — full-stack AI wardrobe platform on AWS
+**WYA** is a full-stack AI-powered wardrobe intelligence platform. It analyses your wardrobe, builds a Style DNA profile, generates outfit combinations, and surfaces wardrobe gaps — all backed by a FastAPI backend deployed on AWS.
 
 🔗 **[View Project →](https://github.com/ria0304/WYA-Whats-Your-Aesthetic)**
 
@@ -59,7 +59,7 @@ ria = {
 
 ---
 
-### ✨ Luna — Conversational AI Stylist &nbsp; *(Part of wya )*
+### ✨ Luna — Conversational AI Stylist &nbsp; *(Part of WYA)*
 
 > *Talk to your wardrobe in plain English.*
 
@@ -68,7 +68,7 @@ ria = {
 🔗 **[View Project →](https://github.com/ria0304/luna-stylist)**
 
 ```
-✦ Natural language intent classifier  ✦ uses LLM to answer any fashion related question
+✦ Natural language intent classifier  ✦ Uses LLM to answer any fashion related question
 ✦ Routes to WYA's real API            ✦ React + TypeScript
 ✦ Wardrobe search, outfit help        ✦ Deployed on AWS S3 + CloudFront
 ✦ Gap analysis, Style DNA chat        ✦ JWT auth via WYA
@@ -107,10 +107,12 @@ ria = {
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [🧠 Lumen](https://github.com/ria0304/lumen) | 32-bit x86 operating system built from scratch, with paging, kernel memory management, Ring 3 isolation, preemptive multitasking, system calls and `fork`/`exec` | C · Assembly · x86 |
+| [🛡️ FairFaceGuard](https://github.com/ria0304/FairFaceGuard) | Deepfake detection research on how skin tone and lighting variations affect detector fairness | Python · Deep Learning |
+| [🚗 HydroDrive-DQN](https://github.com/ria0304/HydroDrive-DQN) | Deep Q-Network energy management for fuel cell electric vehicles, with optimization and driving-cycle analysis | Python · Deep RL · DQN |
+| [₿ Bitcoin Fraud Detection](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | Graph Neural Network model that detects fraudulent bitcoin transactions using temporal & relational patterns | Python · GNN · PyTorch |
 | [✍️ flowWrite](https://github.com/ria0304/flowWrite--ai-text-humanizer) | Multi-pass NLP pipeline that rewrites AI-generated text into natural human-like writing with tone control & HLS scoring | Python · NLP |
 | [📚 BookNest+](https://github.com/ria0304/BOOKNEST-) | Smart reading platform with mood-based & behavior-driven book recommendations | TypeScript · React · ML |
-| [₿ Bitcoin Fraud Detection](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | Graph Neural Network model that detects fraudulent bitcoin transactions using temporal & relational patterns | Python · GNN · PyTorch |
-| [📱 Smart Resale](https://github.com/ria0304/smart-resale) | Predicts fair resale prices for used phones & laptops | Python · Pandas · Scikit-learn |
 
 ---
 
@@ -165,8 +167,9 @@ ria = {
 ## 🌱 Currently
 
 - 🎨 Deploying **WYA** — full-stack AI wardrobe platform on AWS
-- ✨ Building **Luna** — conversational AI stylist powered by WYA's API
 - 💎 Building **Velaris** — AI jewellery design tool, idea to manufacturable brief
+- 🧠 Building **Lumen** — 32-bit x86 operating system in C & Assembly
+- 🔍 Building **VisualGuard-LVLM**
 - 🎯 Deepening ML knowledge: GNNs, recommendation systems, embeddings
 - 🌐 Exploring backend architecture, API design & cloud infrastructure
 
