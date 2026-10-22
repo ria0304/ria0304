@@ -23,6 +23,7 @@ ria = {
     "currently_building":         ["Velaris 💎","LUMEN","VisualGuard-LVLM"],
     "research_projects":          ["WYA", "FairFaceGuard", "TryOn","HydroDrive-DQN","VisualGuard-LVLM","Velaris "],
     "shipped":                    ["WYA ", "Luna ✨"],
+    "accepted":                   ["WYA @ EdgeI 🎉"],
     "studying":                   "CS & Data Science @ MUJ (3rd year)",
     "interests":                  ["Full-Stack Dev", "Machine Learning", "Data Science"],
     "stack":                      ["Python",  "React", "FastAPI", "Scikit-learn"],
@@ -39,6 +40,8 @@ ria = {
 ### 🎨 WYA — What's Your Aesthetic &nbsp; *(Flagship Project)*
 
 > *Ever felt like your style exists but you just can't name it?*
+
+🏆 **Accepted at EdgeI**
 
 **WYA** is a full-stack AI-powered wardrobe intelligence platform. It analyses your wardrobe, builds a Style DNA profile, generates outfit combinations, and surfaces wardrobe gaps — all backed by a FastAPI backend deployed on AWS.
 
@@ -166,6 +169,7 @@ ria = {
 
 ## 🌱 Currently
 
+- 🏆 **WYA accepted at EdgeI**
 - 🎨 Deploying **WYA** — full-stack AI wardrobe platform on AWS
 - 💎 Building **Velaris** — AI jewellery design tool, idea to manufacturable brief
 - 🧠 Building **Lumen** — 32-bit x86 operating system in C & Assembly
