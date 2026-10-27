@@ -23,7 +23,8 @@ ria = {
     "currently_building":         ["Velaris 💎","LUMEN","VisualGuard-LVLM"],
     "research_projects":          ["WYA", "FairFaceGuard", "TryOn","HydroDrive-DQN","VisualGuard-LVLM","Velaris "],
     "shipped":                    ["WYA ", "Luna ✨"],
-    "accepted":                   ["WYA @ EdgeI 🎉"],
+    "accepted":                   ["WYA @ EDGEI 2026 🎉"],
+    "ip":                         ["WYA — IDF Accepted (Manipal University Jaipur, 2026)"],
     "studying":                   "CS & Data Science @ MUJ (3rd year)",
     "interests":                  ["Full-Stack Dev", "Machine Learning", "Data Science"],
     "stack":                      ["Python",  "React", "FastAPI", "Scikit-learn"],
@@ -41,7 +42,7 @@ ria = {
 
 > *Ever felt like your style exists but you just can't name it?*
 
-🏆 **Accepted at EdgeI**
+🏆 **Paper accepted at EDGEI 2026** (camera-ready pending) &nbsp;·&nbsp; 📜 **IDF Accepted** · Manipal University Jaipur, 2026
 
 **WYA** is a full-stack AI-powered wardrobe intelligence platform. It analyses your wardrobe, builds a Style DNA profile, generates outfit combinations, and surfaces wardrobe gaps — all backed by a FastAPI backend deployed on AWS.
 
@@ -119,6 +120,28 @@ ria = {
 
 ---
 
+## 🔬 Research & IP
+
+### 📄 Research Papers
+
+| Paper | Venue | Status |
+|-------|-------|--------|
+| [🎨 **WYA — From Pixels to Wardrobe:** A Deep Learning and Computer Vision Pipeline for Automated Garment Analysis](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | **EDGEI 2026**, SIUC, Malaysia · Springer LNNS (Scopus-indexed) | ✅ Accepted · Camera-ready pending |
+| 👗 **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering | **ANTIC 2026** | 📤 Submitted |
+| [🛡️ **FairFaceGuard** — Deepfake Detection Under Skin-Tone and Lighting Variations](https://github.com/ria0304/FairFaceGuard) | **IMPACT26**, BIT Mesra | 📤 Submitted |
+| 🔍 **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in Large Vision-Language Models | **ICIPCN 2027** | 📤 Submitted |
+| [🚗 **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | _add venue_ | _add status_ |
+
+### 📜 Intellectual Property
+
+| Title | Type | Ref. No. | Status |
+|-------|------|----------|--------|
+| **WYA — What's Your Aesthetic: AI-Powered Personal Styling and Wardrobe Optimization** | Invention Disclosure Form (IDF) | TEMP/E-1/134770/2026-DEL | ✅ IDF Accepted |
+
+> Co-inventor with Mitakshi Sinha · Manipal University Jaipur, 2026
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -169,7 +192,9 @@ ria = {
 
 ## 🌱 Currently
 
-- 🏆 **WYA accepted at EdgeI**
+- 🏆 **WYA paper accepted at EDGEI 2026** (camera-ready pending)
+- 📜 **WYA IDF accepted** at Manipal University Jaipur
+- 📤 Papers submitted: **TryOn** (ANTIC 2026), **FairFaceGuard** (IMPACT26), **VisualGuard** (ICIPCN 2027)
 - 🎨 Deploying **WYA** — full-stack AI wardrobe platform on AWS
 - 💎 Building **Velaris** — AI jewellery design tool, idea to manufacturable brief
 - 🧠 Building **Lumen** — 32-bit x86 operating system in C & Assembly
