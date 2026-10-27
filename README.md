@@ -127,10 +127,10 @@ ria = {
 | Paper | Venue | Status |
 |-------|-------|--------|
 | [🎨 **WYA — From Pixels to Wardrobe:** A Deep Learning and Computer Vision Pipeline for Automated Garment Analysis](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | **EDGEI 2026**, SIUC, Malaysia · Springer LNNS (Scopus-indexed) | ✅ Accepted · Camera-ready pending |
-| 👗 **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering | **ANTIC 2026** | 📤 Submitted |
+| [👗 **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering](https://github.com/ria0304/TryOn) | **ANTIC 2026** | 📤 Submitted |
 | [🛡️ **FairFaceGuard** — Deepfake Detection Under Skin-Tone and Lighting Variations](https://github.com/ria0304/FairFaceGuard) | **IMPACT26**, BIT Mesra | 📤 Submitted |
-| 🔍 **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in Large Vision-Language Models | **ICIPCN 2027** | 📤 Submitted |
-| [🚗 **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | _add venue_ | _add status_ |
+| [🔍 **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in Large Vision-Language Models](https://github.com/ria0304/VisualGuard-LVLM) | **ICIPCN 2027** | 📤 Submitted |
+| [🚗 **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027**, SRHU Dehradun · Springer LNEE (Scopus-indexed, EI Compendex) | ✍️ In preparation |
 
 ### 📜 Intellectual Property
 
@@ -195,10 +195,8 @@ ria = {
 - 🏆 **WYA paper accepted at EDGEI 2026** (camera-ready pending)
 - 📜 **WYA IDF accepted** at Manipal University Jaipur
 - 📤 Papers submitted: **TryOn** (ANTIC 2026), **FairFaceGuard** (IMPACT26), **VisualGuard** (ICIPCN 2027)
-- 🎨 Deploying **WYA** — full-stack AI wardrobe platform on AWS
 - 💎 Building **Velaris** — AI jewellery design tool, idea to manufacturable brief
 - 🧠 Building **Lumen** — 32-bit x86 operating system in C & Assembly
-- 🔍 Building **VisualGuard-LVLM**
 - 🎯 Deepening ML knowledge: GNNs, recommendation systems, embeddings
 - 🌐 Exploring backend architecture, API design & cloud infrastructure
 
