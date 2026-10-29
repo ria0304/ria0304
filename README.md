@@ -42,7 +42,7 @@ ria = {
 
 > *Ever felt like your style exists but you just can't name it?*
 
-🏆 **Paper accepted at EDGEI 2026** (camera-ready pending) &nbsp;·&nbsp; 📜 **IDF Accepted** · Manipal University Jaipur, 2026
+🏆 **Paper accepted at EDGEI 2026** (camera-ready submitted) &nbsp;·&nbsp; 📜 **IDF Accepted** · Manipal University Jaipur, 2026
 
 **WYA** is a full-stack AI-powered wardrobe intelligence platform. It analyses your wardrobe, builds a Style DNA profile, generates outfit combinations, and surfaces wardrobe gaps — all backed by a FastAPI backend deployed on AWS.
 
