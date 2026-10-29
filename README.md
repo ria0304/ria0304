@@ -130,7 +130,7 @@ ria = {
 | [👗 **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering](https://github.com/ria0304/TryOn) | **ANTIC 2026** | 📤 Submitted |
 | [🛡️ **FairFaceGuard** — Deepfake Detection Under Skin-Tone and Lighting Variations](https://github.com/ria0304/FairFaceGuard) | **IMPACT26**, BIT Mesra | 📤 Submitted |
 | [🔍 **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in Large Vision-Language Models](https://github.com/ria0304/VisualGuard-LVLM) | **ICIPCN 2027** | 📤 Submitted |
-| [🚗 **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027**| ✍️ In preparation |
+| [🚗 **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027**| 📤 Submitted  |
 
 ### 📜 Intellectual Property
 
