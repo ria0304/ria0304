@@ -23,10 +23,10 @@ ria = {
     "currently_building":         ["Velaris 💎","LUMEN","VisualGuard-LVLM"],
     "research_projects":          ["WYA", "FairFaceGuard", "TryOn","HydroDrive-DQN","VisualGuard-LVLM","Velaris "],
     "shipped":                    ["WYA ", "Luna ✨"],
-    "accepted":                   ["WYA @ EDGEI 2026 🎉"],
+    "accepted":                   ["WYA @ EDGEI 2026 "],
     "ip":                         ["WYA — IDF Accepted (Manipal University Jaipur, 2026)"],
     "studying":                   "CS & Data Science @ MUJ (3rd year)",
-    "interests":                  ["Full-Stack Dev", "Machine Learning", "Data Science"],
+    "interests":                  ["Full-Stack Dev", "Machine Learning", "Data Science","research"],
     "stack":                      ["Python",  "React", "FastAPI", "Scikit-learn"],
     "fun_fact":                   "I build apps to solve problems I actually have "
 }
