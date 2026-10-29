@@ -126,7 +126,7 @@ ria = {
 
 | Paper | Venue | Status |
 |-------|-------|--------|
-| [🎨 **WYA — From Pixels to Wardrobe:** A Deep Learning and Computer Vision Pipeline for Automated Garment Analysis](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | **EDGEI 2026**, SIUC, Malaysia · Springer LNNS (Scopus-indexed) | ✅ Accepted · Camera-ready pending |
+| [🎨 **WYA — From Pixels to Wardrobe:** A Deep Learning and Computer Vision Pipeline for Automated Garment Analysis](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | **EDGEI 2026**| ✅ Accepted · Camera-ready submitted |
 | [👗 **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering](https://github.com/ria0304/TryOn) | **ANTIC 2026** | 📤 Submitted |
 | [🛡️ **FairFaceGuard** — Deepfake Detection Under Skin-Tone and Lighting Variations](https://github.com/ria0304/FairFaceGuard) | **IMPACT26**, BIT Mesra | 📤 Submitted |
 | [🔍 **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in Large Vision-Language Models](https://github.com/ria0304/VisualGuard-LVLM) | **ICIPCN 2027** | 📤 Submitted |
