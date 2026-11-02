@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=3B82F6&center=true&vCenter=true&width=640&lines=Full-Stack+%26+ML+Engineer;Research+%7C+GNNs+%7C+Generative+AI+%7C+Computer+Vision;Building+WYA%2C+Velaris+%26+Lumen+OS;I+build+apps+to+solve+problems+I+actually+have" alt="Typing intro" />
   </a>
 
-### 3rd Year CS & Data Science @ Manipal University Jaipur
+### 3rd Year CSE & Data Science @ Manipal University Jaipur
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ria-s-471902330/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0304rias@gmail.com)
