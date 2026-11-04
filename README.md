@@ -26,9 +26,9 @@
 ```python
 ria = {
     "studying":          "CS & Data Science @ MUJ (3rd year, 2024–2028)",
-    "currently_building": ["Velaris 💎", "Lumen 🧠", "PaperPilot ✍️"],
-    "shipped":           ["WYA", "Luna ✨", "TryOn 👗"],
-    "accepted":          ["WYA @ EDGEI 2026 (Springer LNNS)"],
+    "currently_building": ["Velaris ", "Lumen ", "PaperPilot "],
+    "shipped":           ["WYA", "Luna ", "TryOn "],
+    "accepted":          ["WYA @ EDGEI 2026 "],
     "ip":                ["WYA — IDF Accepted (Manipal University Jaipur, 2026)"],
     "interests":         ["Full-Stack Dev", "Machine Learning", "Graph ML", "Generative AI", "Research"],
     "stack":             ["Python", "TypeScript", "React", "FastAPI", "PyTorch", "AWS"],
@@ -41,7 +41,7 @@ ria = {
 
 ## 🚀 Featured Projects
 
-### 🎨 WYA — What's Your Aesthetic &nbsp; *(Flagship)*
+###  WYA — What's Your Aesthetic &nbsp; *(Flagship)*
 
 > *Ever felt like your style exists but you just can't name it?*
 
@@ -68,7 +68,7 @@ ria = {
 
 ---
 
-### ✨ Luna — Conversational AI Stylist &nbsp; *(Part of WYA)*
+###  Luna — Conversational AI Stylist &nbsp; *(Part of WYA)*
 
 > *Talk to your wardrobe in plain English.*
 
@@ -89,7 +89,7 @@ A conversational frontend on top of WYA's API. A regex intent classifier routes 
 
 ---
 
-### 👗 TryOn — Build, Compare & Perfect Outfits
+###  TryOn — Build, Compare & Perfect Outfits
 
 > *Screenshot a look. Wear it on a mannequin.*
 
@@ -104,7 +104,7 @@ Turns any clothing screenshot into a transparent garment cutout (`rembg`), auto-
 
 ---
 
-### 💎 Velaris — From Inspiration to Jewellery Design &nbsp; *(Currently Building)*
+### Velaris — From Inspiration to Jewellery Design &nbsp; *(Currently Building)*
 
 > *Type it. Sketch it. Upload it. Get a jewellery design you can actually build.*
 
@@ -130,15 +130,15 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🧠 Lumen](https://github.com/ria0304/Lumen) | 32-bit x86 OS from a raw boot sector: paging, preemptive Ring 0/3 multitasking, `fork`/`exec`, 25 syscalls, ATA driver, persistent FS, ELF loader | C · x86 ASM · NASM · QEMU |
+| [Lumen](https://github.com/ria0304/Lumen) | 32-bit x86 OS from a raw boot sector: paging, preemptive Ring 0/3 multitasking, `fork`/`exec`, 25 syscalls, ATA driver, persistent FS, ELF loader | C · x86 ASM · NASM · QEMU |
 | [₿ Bitcoin Fraud Detection](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | GATv2 + MetaEnsemble stacker on the Elliptic dataset; beats published EvolveGCN baselines on AUC & F1 | PyTorch Geometric · XGBoost |
-| [🏎️ ApexNet](https://github.com/ria0304/ApexNet) | F1 overtaking prediction — five architectures compared (CNN, GAT, LSTM, CNN+LSTM, CNN+GAT) with a leakage-checked race-level split | PyTorch · FastAPI |
-| [📊 Sports Analytics Dashboard](https://github.com/ria0304/Sports-performance-analytics-dashboard) | Six-tab live dashboard + a Poisson match model validated walk-forward on 14,460 real matches · 160 tests | React 19 · TypeScript · Recharts |
-| [✍️ PaperPilot](https://github.com/ria0304/PaperPilot) | Questions in, handwritten A4 pages out — custom canvas renderer + hand-written PDF writer, answers streamed from Claude over SSE | JavaScript · FastAPI · Redis |
-| [🧵 flowWrite](https://github.com/ria0304/flowWrite--ai-text-humanizer) | Multi-pass NLP pipeline for natural-sounding rewrites with a custom Human Likeness Score | spaCy · SBERT · Ollama |
-| [🧍 3D Mannequin Viewer](https://github.com/ria0304/3d-mannequin-garment-viewer-) | Garment photo → strap/back detection → 3D dress-form render, with an anti-hallucination confidence gate | Three.js · FastAPI |
-| [📚 BookNest+](https://github.com/ria0304/BOOKNEST-) | Mood- and behaviour-driven book recommendations, EPUB reader, book-to-movie mode | TypeScript · React · Node.js |
-| [💸 Smart Resale](https://github.com/ria0304/smart-resale) | ML model predicting fair resale prices for used phones & laptops | Scikit-learn · Pandas |
+| [ApexNet](https://github.com/ria0304/ApexNet) | F1 overtaking prediction — five architectures compared (CNN, GAT, LSTM, CNN+LSTM, CNN+GAT) with a leakage-checked race-level split | PyTorch · FastAPI |
+| [Sports Analytics Dashboard](https://github.com/ria0304/Sports-performance-analytics-dashboard) | Six-tab live dashboard + a Poisson match model validated walk-forward on 14,460 real matches · 160 tests | React 19 · TypeScript · Recharts |
+| [PaperPilot](https://github.com/ria0304/PaperPilot) | Questions in, handwritten A4 pages out — custom canvas renderer + hand-written PDF writer, answers streamed from Claude over SSE | JavaScript · FastAPI · Redis |
+| [flowWrite](https://github.com/ria0304/flowWrite--ai-text-humanizer) | Multi-pass NLP pipeline for natural-sounding rewrites with a custom Human Likeness Score | spaCy · SBERT · Ollama |
+| [3D Mannequin Viewer](https://github.com/ria0304/3d-mannequin-garment-viewer-) | Garment photo → strap/back detection → 3D dress-form render, with an anti-hallucination confidence gate | Three.js · FastAPI |
+| [BookNest+](https://github.com/ria0304/BOOKNEST-) | Mood- and behaviour-driven book recommendations, EPUB reader, book-to-movie mode | TypeScript · React · Node.js |
+| [Smart Resale](https://github.com/ria0304/smart-resale) | ML model predicting fair resale prices for used phones & laptops | Scikit-learn · Pandas |
 
 ---
 
@@ -148,13 +148,14 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 
 | Paper | Venue | Status |
 |-------|-------|--------|
-| [🎨 **WYA — From Pixels to Wardrobe:** A Deep Learning and Computer Vision Pipeline for Automated Garment Analysis](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | **EDGEI 2026** · Springer LNNS (Scopus-indexed) | ✅ Accepted · Camera-ready submitted |
-| [👗 **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering](https://github.com/ria0304/TryOn) | **ANTIC 2026** | 📤 Submitted |
-| [🛡️ **FairFaceGuard** — Deepfake Detection Under Skin-Tone and Lighting Variations](https://github.com/ria0304/FairFaceGuard) | **IMPACT26**, BIT Mesra | 📤 Submitted |
-| [🔍 **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in LVLMs](https://github.com/ria0304/VisualGuard-LVLM) | **ICIPCN 2027** | 📤 Submitted |
-| [🚗 **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027** | 📤 Submitted |
-| [💎 **Velaris** — From Inspiration to Jewellery Design](https://github.com/ria0304/Velaris-From-Inspiration-to-Jewellery-Design) | **ESIC 2027** | 🚧 In progress · deadline 15 Jan 2027 |
-| [₿ **Bitcoin Fraud Detection** — GNNs on the Elliptic Dataset](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | *The Computer Journal*, OUP | 🚧 In progress |
+| [ **WYA — From Pixels to Wardrobe:** A Deep Learning and Computer Vision Pipeline for Automated Garment Analysis](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | **EDGEI 2026** · Springer LNNS (Scopus-indexed) | ✅ Accepted · Camera-ready submitted |
+| [ **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering](https://github.com/ria0304/TryOn) | **ANTIC 2026** | 📤 Submitted |
+| [ **FairFaceGuard** — Deepfake Detection Under Skin-Tone and Lighting Variations](https://github.com/ria0304/FairFaceGuard) | **IMPACT26**, BIT Mesra | 📤 Submitted |
+| [ **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in LVLMs](https://github.com/ria0304/VisualGuard-LVLM) | **ICIPCN 2027** | 📤 Submitted |
+| [ **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027** | 📤 Submitted |
+| [ **WYA — What's Your Aesthetic:** Journal Extension](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | *The Computer Journal*, OUP | 🚧 In progress |
+| [ **Velaris** — From Inspiration to Jewellery Design](https://github.com/ria0304/Velaris-From-Inspiration-to-Jewellery-Design) | **ESIC 2027** | 🚧 In progress · deadline 15 Jan 2027 |
+| [ **Bitcoin Fraud Detection** — GNNs on the Elliptic Dataset](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | *The Computer Journal*, OUP | 🚧 In progress |
 
 ### 📜 Intellectual Property
 
@@ -216,8 +217,8 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 
 - 🏆 **WYA** paper accepted at EDGEI 2026 · 📜 WYA IDF accepted at Manipal University Jaipur
 - 📤 Papers under review: **TryOn**, **FairFaceGuard**, **VisualGuard**, **HydroDrive-DQN**
-- 🚧 Writing up **Velaris** (ESIC 2027) and the **Bitcoin GNN** journal paper
-- 💎 Building **Velaris** · 🧠 **Lumen** OS · ✍️ **PaperPilot** · ✦ **Atelier** (fashion-tech hub tying WYA, Luna, TryOn & Velaris together)
+- 🚧 Writing up **Velaris** (ESIC 2027), the **Bitcoin GNN** and **WYA** journal papers (*The Computer Journal*, OUP)
+- 💎 Building **Velaris** ·  **Lumen** OS · **PaperPilot** · ✦ **Atelier** (fashion-tech hub tying WYA, Luna, TryOn & Velaris together)
 - 🎯 Deepening ML: GNNs, causal fairness, LVLM decoding, reinforcement learning
 - 🌐 Exploring backend architecture, API design & cloud infrastructure
 
