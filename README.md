@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=170&section=header&text=Hi%2C%20I'm%20Ria%20👋&fontSize=44&fontColor=ffffff&fontAlignY=52&animation=twinkling" />
 
   <a href="https://github.com/ria0304">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=3B82F6&center=true&vCenter=true&width=640&lines=Full-Stack+%26+ML+Engineer;Research+%7C+GNNs+%7C+Generative+AI+%7C+Computer+Vision;Building+WYA%2C+Velaris+%26+Lumen+OS;I+build+apps+to+solve+problems+I+actually+have" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=3B82F6&center=true&vCenter=true&width=640&lines=Full-Stack+%26+ML+Engineer;Research+%7C+GNNs+%7C+Generative+AI+%7C+Computer+Vision;2+Papers+Accepted+%C2%B7+Springer+LNNS+%26+ICT;Building+WYA%2C+Velaris+%26+Lumen+OS;I+build+apps+to+solve+problems+I+actually+have" alt="Typing intro" />
   </a>
 
 ### 3rd Year CSE & Data Science @ Manipal University Jaipur
@@ -12,8 +12,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ria0304.github.io/portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RIA_0304/)
 
-![Papers Accepted](https://img.shields.io/badge/Paper_Accepted-1-2ea44f?style=flat-square)
-![Papers Submitted](https://img.shields.io/badge/Papers_Submitted-4-8957e5?style=flat-square)
+![Papers Accepted](https://img.shields.io/badge/Papers_Accepted-2-2ea44f?style=flat-square)
+![Papers Submitted](https://img.shields.io/badge/Papers_Submitted-3-8957e5?style=flat-square)
 ![IDF Accepted](https://img.shields.io/badge/IDF_Accepted-1-f0b429?style=flat-square)
 ![Open to](https://img.shields.io/badge/Seeking-Summer_2027_Internships-3B82F6?style=flat-square)
 
@@ -25,17 +25,30 @@
 
 ```python
 ria = {
-    "studying":          "CS & Data Science @ MUJ (3rd year, 2024–2028)",
-    "currently_building": ["Velaris ", "Lumen ", "PaperPilot "],
-    "shipped":           ["WYA", "Luna ", "TryOn "],
-    "accepted":          ["WYA @ EDGEI 2026 "],
-    "ip":                ["WYA — IDF Accepted (Manipal University Jaipur, 2026)"],
-    "interests":         ["Full-Stack Dev", "Machine Learning", "Graph ML", "Generative AI", "Research"],
-    "stack":             ["Python", "TypeScript", "React", "FastAPI", "PyTorch", "AWS"],
-    "looking_for":       "Summer 2027 internships — SWE · ML · Data Science (remote / India)",
-    "fun_fact":          "I build apps to solve problems I actually have"
+    "studying":           "CS & Data Science @ MUJ (3rd year, 2024–2028)",
+    "currently_building": ["Velaris", "Lumen", "PaperPilot", "Atelier"],
+    "shipped":            ["WYA", "Luna", "TryOn"],
+    "accepted":           ["WYA @ EDGEI 2026 (Springer LNNS)",
+                           "FairFaceGuard @ IMPACT 2026 (Springer ICT)"],
+    "ip":                 ["WYA — IDF Accepted (Manipal University Jaipur, 2026)"],
+    "interests":          ["Full-Stack Dev", "Machine Learning", "Graph ML",
+                           "Generative AI", "Fairness & Causal ML", "Research"],
+    "stack":              ["Python", "TypeScript", "React", "FastAPI", "PyTorch", "AWS"],
+    "looking_for":        "Summer 2027 internships — SWE · ML · Data Science (remote / India)",
+    "fun_fact":           "I build apps to solve problems I actually have"
 }
 ```
+
+---
+
+## 🏆 Highlights
+
+| | |
+|---|---|
+| 📄 **2 papers accepted** | **WYA** at EDGEI 2026 (Springer LNNS, Scopus-indexed) · **FairFaceGuard** at IMPACT 2026 (Springer ICT series) |
+| 📤 **3 papers submitted** | TryOn (ANTIC 2026) · VisualGuard (ICIPCN 2027) · HydroDrive-DQN (MARC 2027) |
+| 📜 **IP** | WYA IDF accepted · TryOn and Greywater patent drafts submitted |
+| 🚢 **Shipped** | Production AWS stack (EC2 · S3 · CloudFront · SageMaker) with CI/CD and automated tests |
 
 ---
 
@@ -95,12 +108,35 @@ A conversational frontend on top of WYA's API. A regex intent classifier routes 
 
 Turns any clothing screenshot into a transparent garment cutout (`rembg`), auto-categorises it with FashionCLIP, and fits it onto a 2D paper-doll or rigged 3D mannequin using MediaPipe BlazePose landmarks and thin-plate-spline warping. Build, save and compare full outfits, then export a magazine-style card. **69 tests at 86% coverage**, run against the real CV models.
 
-🔗 **[View Project →](https://github.com/ria0304/TryOn)** &nbsp;·&nbsp; 📤 Paper submitted · ANTIC 2026
+🔗 **[View Project →](https://github.com/ria0304/TryOn)** &nbsp;·&nbsp; 📤 Paper submitted · ANTIC 2026 &nbsp;·&nbsp; 📝 IDF filed
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+---
+
+###  FairFaceGuard — Fairness Audit for Deepfake Detection &nbsp; *(Research)*
+
+> *Is the accuracy gap really about skin tone, or about the lighting that comes with it?*
+
+🏆 **Paper accepted at IMPACT 2026** · Springer Information and Communication Technology (ICT) series
+
+A research pipeline that audits a deepfake detector across skin-tone groups. Faces get illuminant-corrected ITA/Fitzpatrick labels, then matched counterfactuals (skin-only, light-only, both) with an automated manipulation check. A frozen EfficientNet-B4 baseline is interrogated three ways: adversarial GRL sweeps, linear probing, and a counterfactual causal test, with bootstrap CIs and a paired permutation test. The accepted paper presents an observational fairness audit together with an honest negative result on counterfactual skin-tone control.
+
+🔗 **[View Project →](https://github.com/ria0304/FairFaceGuard)**
+
+```
+✦ Illuminant-corrected ITA / Fitzpatrick labels   ✦ Matched counterfactuals + manipulation check
+✦ Adversarial GRL sweeps · linear probing         ✦ Bootstrap CIs · paired permutation test
+✦ Frozen EfficientNet-B4 on FaceForensics++       ✦ Negative results reported honestly
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Causal ML](https://img.shields.io/badge/Causal%20ML-8957E5?style=flat-square)
+![Fairness](https://img.shields.io/badge/Fairness-2EA44F?style=flat-square)
 
 ---
 
@@ -131,6 +167,8 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Lumen](https://github.com/ria0304/Lumen) | 32-bit x86 OS from a raw boot sector: paging, preemptive Ring 0/3 multitasking, `fork`/`exec`, 25 syscalls, ATA driver, persistent FS, ELF loader | C · x86 ASM · NASM · QEMU |
+| [VisualGuard](https://github.com/ria0304/VisualGuard-LVLM) | Training-free, decoding-time method that reduces object hallucination in LVLMs by scoring candidate tokens against image evidence · 297 tests | PyTorch · CLIP · Grounding DINO · LLaVA-1.5 |
+| [HydroDrive-DQN](https://github.com/ria0304/HydroDrive-DQN) | Fuel-cell EV energy management + hydrogen infrastructure co-optimization: from-scratch NumPy DQN, NSGA-II, GA, 10,000-scenario Monte Carlo | Python · NumPy · Flask |
 | [₿ Bitcoin Fraud Detection](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | GATv2 + MetaEnsemble stacker on the Elliptic dataset; beats published EvolveGCN baselines on AUC & F1 | PyTorch Geometric · XGBoost |
 | [ApexNet](https://github.com/ria0304/ApexNet) | F1 overtaking prediction — five architectures compared (CNN, GAT, LSTM, CNN+LSTM, CNN+GAT) with a leakage-checked race-level split | PyTorch · FastAPI |
 | [Sports Analytics Dashboard](https://github.com/ria0304/Sports-performance-analytics-dashboard) | Six-tab live dashboard + a Poisson match model validated walk-forward on 14,460 real matches · 160 tests | React 19 · TypeScript · Recharts |
@@ -149,8 +187,8 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 | Paper | Venue | Status |
 |-------|-------|--------|
 | [ **WYA — From Pixels to Wardrobe:** A Deep Learning and Computer Vision Pipeline for Automated Garment Analysis](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | **EDGEI 2026** · Springer LNNS (Scopus-indexed) | ✅ Accepted · Camera-ready submitted |
+| [ **FairFaceGuard:** An Observational Fairness Audit and a Negative Result on Counterfactual Skin-Tone Control in Deepfake Detection](https://github.com/ria0304/FairFaceGuard) | **IMPACT 2026** · Springer ICT series · BIT Mesra | ✅ Accepted · Camera-ready due |
 | [ **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering](https://github.com/ria0304/TryOn) | **ANTIC 2026** | 📤 Submitted |
-| [ **FairFaceGuard** — Deepfake Detection Under Skin-Tone and Lighting Variations](https://github.com/ria0304/FairFaceGuard) | **IMPACT26**, BIT Mesra | 📤 Submitted |
 | [ **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in LVLMs](https://github.com/ria0304/VisualGuard-LVLM) | **ICIPCN 2027** | 📤 Submitted |
 | [ **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027** | 📤 Submitted |
 | [ **WYA — What's Your Aesthetic:** Journal Extension](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | *The Computer Journal*, OUP | 🚧 In progress |
@@ -215,8 +253,8 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 
 ## 🌱 Currently
 
-- 🏆 **WYA** paper accepted at EDGEI 2026 · 📜 WYA IDF accepted at Manipal University Jaipur
-- 📤 Papers under review: **TryOn**, **FairFaceGuard**, **VisualGuard**, **HydroDrive-DQN**
+- 🏆 **Two papers accepted:** WYA at EDGEI 2026 and FairFaceGuard at IMPACT 2026 (camera-ready in progress) · 📜 WYA IDF accepted at Manipal University Jaipur
+- 📤 Papers under review: **TryOn**, **VisualGuard**, **HydroDrive-DQN**
 - 🚧 Writing up **Velaris** (ESIC 2027), the **Bitcoin GNN** and **WYA** journal papers (*The Computer Journal*, OUP)
 - 💎 Building **Velaris** ·  **Lumen** OS · **PaperPilot** · ✦ **Atelier** (fashion-tech hub tying WYA, Luna, TryOn & Velaris together)
 - 🎯 Deepening ML: GNNs, causal fairness, LVLM decoding, reinforcement learning
