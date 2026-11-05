@@ -187,7 +187,7 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 | Paper | Venue | Status |
 |-------|-------|--------|
 | [ **WYA — From Pixels to Wardrobe:** A Deep Learning and Computer Vision Pipeline for Automated Garment Analysis](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | **EDGEI 2026** · Springer LNNS (Scopus-indexed) | ✅ Accepted · Camera-ready submitted |
-| [ **FairFaceGuard:** An Observational Fairness Audit and a Negative Result on Counterfactual Skin-Tone Control in Deepfake Detection](https://github.com/ria0304/FairFaceGuard) | **IMPACT 2026** · Springer ICT series · BIT Mesra | ✅ Accepted · Camera-ready due |
+| [ **FairFaceGuard:** An Observational Fairness Audit and a Negative Result on Counterfactual Skin-Tone Control in Deepfake Detection](https://github.com/ria0304/FairFaceGuard) | **IMPACT 2026** · Springer ICT series · BIT Mesra | ✅ Accepted · Camera-ready submitted |
 | [ **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering](https://github.com/ria0304/TryOn) | **ANTIC 2026** | 📤 Submitted |
 | [ **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in LVLMs](https://github.com/ria0304/VisualGuard-LVLM) | **ICIPCN 2027** | 📤 Submitted |
 | [ **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027** | 📤 Submitted |
