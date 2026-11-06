@@ -47,7 +47,7 @@ ria = {
 | | |
 |---|---|
 | 📄 **2 papers accepted** | **WYA** at EDGEI 2026 (Springer LNNS, Scopus-indexed) · **FairFaceGuard** at IMPACT 2026 (Springer ICT series) |
-| 📤 **3 papers submitted** | TryOn (ANTIC 2026) · VisualGuard (ICIPCN 2027) · HydroDrive-DQN (MARC 2027) |
+| 📤 **4 papers submitted** | TryOn (ANTIC 2026) · VisualGuard (ICIPCN 2027) · HydroDrive-DQN (MARC 2027) · Velaris (ICDSI 2027) |
 | 📜 **IP** | WYA IDF accepted · TryOn and Greywater patent drafts submitted |
 | 🚢 **Shipped** | Production AWS stack (EC2 · S3 · CloudFront · SageMaker) with CI/CD and automated tests |
 
@@ -145,6 +145,8 @@ A research pipeline that audits a deepfake detector across skin-tone groups. Fac
 
 > *Type it. Sketch it. Upload it. Get a jewellery design you can actually build.*
 
+📤 **Paper submitted · ICDSI 2027** (Paper ID 391)
+
 An AI-powered jewellery design tool that turns text, sketches or inspiration photos into professional concept renders and manufacturer-ready briefs — closing the gap between a customer's idea and a jeweller's workflow.
 
 🔗 **[View Project →](https://github.com/ria0304/Velaris-From-Inspiration-to-Jewellery-Design)**
@@ -187,12 +189,12 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 
 | Paper | Venue | Status |
 |-------|-------|--------|
-| [ **WYA — From Pixels to Wardrobe:** A Deep Learning and Computer Vision Pipeline for Automated Garment Analysis](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | **EDGEI 2026** · Springer LNNS (Scopus-indexed) | ✅ Accepted · Camera-ready submitted |
-| [ **FairFaceGuard:** An Observational Fairness Audit and a Negative Result on Counterfactual Skin-Tone Control in Deepfake Detection](https://github.com/ria0304/FairFaceGuard) | **IMPACT 2026** · Springer ICT series · BIT Mesra | ✅ Accepted · Camera-ready submitted |
-| [ **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering](https://github.com/ria0304/TryOn) | **ANTIC 2026** | 📤 Submitted |
-| [ **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in LVLMs](https://github.com/ria0304/VisualGuard-LVLM) | **ICIPCN 2027** | 📤 Submitted |
-| [ **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027** | 📤 Submitted |
-| [ **Velaris** — From Inspiration to Jewellery Design](https://github.com/ria0304/Velaris-From-Inspiration-to-Jewellery-Design) | **ICDSI 2027** | 📤 Submitted |
+| [ **WYA — From Pixels to Wardrobe:** A Deep Learning and Computer Vision Pipeline for Automated Garment Analysis](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | **EDGEI 2026** · Springer LNNS (Scopus-indexed) · Paper ID 379 · 11–12 Dec 2026 · [Website](https://edgei.org/) | ✅ Accepted · Camera-ready submitted |
+| [ **FairFaceGuard:** An Observational Fairness Audit and a Negative Result on Counterfactual Skin-Tone Control in Deepfake Detection](https://github.com/ria0304/FairFaceGuard) | **IMPACT 2026** · Springer ICT series · BIT Mesra · Paper ID 427 · 4–5 Dec 2026 · [Website](https://impact.bitmsra.ac.in/) | ✅ Accepted · Camera-ready submitted |
+| [ **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering](https://github.com/ria0304/TryOn) | **ANTIC 2026** · Paper ID 236 · 21–23 Dec 2026 · [Website](https://antic.co.in/) | 📤 Submitted |
+| [ **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in LVLMs](https://github.com/ria0304/VisualGuard-LVLM) | **ICIPCN 2027** · 21–23 Jan 2027 · [Website](https://icipcn.com/2027/) | 📤 Submitted |
+| [ **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027** · Paper ID 280 · 21–22 Jan 2027 · [Website](https://marc2027.srhu.edu.in/) | 📤 Submitted |
+| [ **Velaris** — From Inspiration to Jewellery Design](https://github.com/ria0304/Velaris-From-Inspiration-to-Jewellery-Design) | **ICDSI 2027** · Paper ID 391 · 4–5 Feb 2027 · [Website](https://www.icdsi.co.in/) | 📤 Submitted |
 | [ **WYA — What's Your Aesthetic:** Journal Extension](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | *The Computer Journal*, OUP | 🚧 In progress |
 | [ **Bitcoin Fraud Detection** — GNNs on the Elliptic Dataset](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | *The Computer Journal*, OUP | 🚧 In progress |
 
@@ -255,8 +257,8 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 ## 🌱 Currently
 
 - 🏆 **Two papers accepted:** WYA at EDGEI 2026 and FairFaceGuard at IMPACT 2026 (camera-ready in progress) · 📜 WYA IDF accepted at Manipal University Jaipur
-- 📤 Papers under review: **TryOn**, **VisualGuard**, **HydroDrive-DQN**
-- 🚧 Writing up **Velaris** (ESIC 2027), the **Bitcoin GNN** and **WYA** journal papers (*The Computer Journal*, OUP)
+- 📤 Papers under review: **TryOn**, **VisualGuard**, **HydroDrive-DQN**, **Velaris**
+- 🚧 Writing up the **Bitcoin GNN** and **WYA** journal papers (*The Computer Journal*, OUP)
 - 💎 Building **Velaris** ·  **Lumen** OS · **PaperPilot** · ✦ **Atelier** (fashion-tech hub tying WYA, Luna, TryOn & Velaris together)
 - 🎯 Deepening ML: GNNs, causal fairness, LVLM decoding, reinforcement learning
 - 🌐 Exploring backend architecture, API design & cloud infrastructure
