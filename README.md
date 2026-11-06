@@ -13,8 +13,9 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RIA_0304/)
 
 ![Papers Accepted](https://img.shields.io/badge/Papers_Accepted-2-2ea44f?style=flat-square)
-![Papers Submitted](https://img.shields.io/badge/Papers_Submitted-4-8957e5?style=flat-square)
+![Papers Submitted](https://img.shields.io/badge/Papers_Submitted-6-8957e5?style=flat-square)
 ![IDF Accepted](https://img.shields.io/badge/IDF_Accepted-1-f0b429?style=flat-square)
+![IDF Submitted](https://img.shields.io/badge/IDF_Submitted-3-f0b429?style=flat-square)
 ![Open to](https://img.shields.io/badge/Seeking-Summer_2027_Internships-3B82F6?style=flat-square)
 
 </div>
