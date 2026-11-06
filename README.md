@@ -191,8 +191,8 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 | [ **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering](https://github.com/ria0304/TryOn) | **ANTIC 2026** | 📤 Submitted |
 | [ **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in LVLMs](https://github.com/ria0304/VisualGuard-LVLM) | **ICIPCN 2027** | 📤 Submitted |
 | [ **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027** | 📤 Submitted |
+| [ **Velaris** — From Inspiration to Jewellery Design](https://github.com/ria0304/Velaris-From-Inspiration-to-Jewellery-Design) | **ICDSI 2027** | 📤 Submitted |
 | [ **WYA — What's Your Aesthetic:** Journal Extension](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | *The Computer Journal*, OUP | 🚧 In progress |
-| [ **Velaris** — From Inspiration to Jewellery Design](https://github.com/ria0304/Velaris-From-Inspiration-to-Jewellery-Design) | **ESIC 2027** | 🚧 In progress · deadline 15 Jan 2027 |
 | [ **Bitcoin Fraud Detection** — GNNs on the Elliptic Dataset](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | *The Computer Journal*, OUP | 🚧 In progress |
 
 ### 📜 Intellectual Property
