@@ -194,7 +194,7 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 | [ **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering](https://github.com/ria0304/TryOn) | **ANTIC 2026** · Paper ID 236 · 21–23 Dec 2026 · [Website](https://antic.co.in/) | 📤 Submitted |
 | [ **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in LVLMs](https://github.com/ria0304/VisualGuard-LVLM) | **ICIPCN 2027** · 21–23 Jan 2027 · [Website](https://icipcn.com/2027/) | 📤 Submitted |
 | [ **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027** · Paper ID 280 · 21–22 Jan 2027 · [Website](https://marc2027.srhu.edu.in/) | 📤 Submitted |
-| [ **Velaris** — From Inspiration to Jewellery Design](https://github.com/ria0304/Velaris-From-Inspiration-to-Jewellery-Design) | *socpros2027* · Paper ID 107 · 5-7 March 2027 · [Website](https://www.icdsi.co.in/) | 📤 Submitted |
+| [ **Velaris** — From Inspiration to Jewellery Design](https://github.com/ria0304/Velaris-From-Inspiration-to-Jewellery-Design) | *socpros2027* · Paper ID 107 · 5-7 March 2027 · [Website](https://socpros2027.iitr.ac.in/) | 📤 Submitted |
 | [ **WYA — What's Your Aesthetic:** Journal Extension](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | *The Computer Journal*, OUP | 🚧 In progress |
 | [ **Temporal Evaluation of Graph-Based and Tabular Learning for Illicit Bitcoin Transaction Detection](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | *The Computer Journal*, OUP | 🚧 In progress |
 
