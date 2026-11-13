@@ -196,7 +196,7 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 | [ **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027** · Paper ID 280 · 21–22 Jan 2027 · [Website](https://marc2027.srhu.edu.in/) | 📤 Submitted |
 | [ **Velaris** — From Inspiration to Jewellery Design](https://github.com/ria0304/Velaris-From-Inspiration-to-Jewellery-Design) | **ICDSI 2027** · Paper ID 391 · 4–5 Feb 2027 · [Website](https://www.icdsi.co.in/) | 📤 Submitted |
 | [ **WYA — What's Your Aesthetic:** Journal Extension](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | *The Computer Journal*, OUP | 🚧 In progress |
-| [ **Bitcoin Fraud Detection** — GNNs on the Elliptic Dataset](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | *The Computer Journal*, OUP | 🚧 In progress |
+| [ **Temporal Evaluation of Graph-Based and Tabular Learning for Illicit Bitcoin Transaction Detection](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | *The Computer Journal*, OUP | 🚧 In progress |
 
 ### 📜 Intellectual Property
 
