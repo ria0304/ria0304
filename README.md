@@ -27,7 +27,7 @@
 ```python
 ria = {
     "studying":           "CS & Data Science @ MUJ (3rd year, 2024–2028)",
-    "currently_building": [ "PaperPilot"],
+    "currently_building": [ "ORVYNE ,Batisse"],
     "shipped":            ["WYA", "Luna", "TryOn"],
     "accepted":           ["WYA @ EDGEI 2026 (Springer LNNS)",
                            "FairFaceGuard @ IMPACT 2026 (Springer ICT)"],
