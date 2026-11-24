@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=170&section=header&text=Hi%2C%20I'm%20Ria%20👋&fontSize=44&fontColor=ffffff&fontAlignY=52&animation=twinkling" />
 
   <a href="https://github.com/ria0304">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=3B82F6&center=true&vCenter=true&width=640&lines=Full-Stack+%26+ML+Engineer;Research+%7C+GNNs+%7C+Generative+AI+%7C+Computer+Vision;2+Papers+Accepted+%C2%B7+Springer+LNNS+%26+ICT;Building+WYA%2C+Velaris+%26+Lumen+OS;I+build+apps+to+solve+problems+I+actually+have" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=3B82F6&center=true&vCenter=true&width=640&lines=Full-Stack+%26+ML+Engineer;Research+%7C+GNNs+%7C+Generative+AI+%7C+Computer+Vision;3+Papers+Accepted+%C2%B7+EDGEI%2C+IMPACT+%26+MARC;Building+WYA%2C+Velaris+%26+Lumen+OS;I+build+apps+to+solve+problems+I+actually+have" alt="Typing intro" />
   </a>
 
 ### 3rd Year CSE & Data Science @ Manipal University Jaipur
@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ria0304.github.io/portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RIA_0304/)
 
-![Papers Accepted](https://img.shields.io/badge/Papers_Accepted-2-2ea44f?style=flat-square)
+![Papers Accepted](https://img.shields.io/badge/Papers_Accepted-3-2ea44f?style=flat-square)
 ![Papers Submitted](https://img.shields.io/badge/Papers_Submitted-6-8957e5?style=flat-square)
 ![IDF Accepted](https://img.shields.io/badge/IDF_Accepted-1-f0b429?style=flat-square)
 ![IDF Submitted](https://img.shields.io/badge/IDF_Submitted-3-f0b429?style=flat-square)
@@ -30,10 +30,11 @@ ria = {
     "currently_building": [ "ORVYNE" ,"Batisse"],
     "shipped":            ["WYA", "Luna", "TryOn"],
     "accepted":           ["WYA @ EDGEI 2026 (Springer LNNS)",
-                           "FairFaceGuard @ IMPACT 2026 (Springer ICT)"],
+                           "FairFaceGuard @ IMPACT 2026 (Springer ICT)",
+                           "HydroDrive-DQN @ MARC 2027"],
     "ip":                 ["WYA — IDF Accepted (Manipal University Jaipur, 2026)"],
     "interests":          ["Full-Stack Dev", "Machine Learning", "Graph ML",
-                           "Generative AI", "Fairness & Causal ML", "Research"],
+                           "Generative AI", "Fairness & Causal ML", "Reinforcement Learning", "Research"],
     "stack":              ["Python", "TypeScript", "React", "FastAPI", "PyTorch", "AWS"],
     "looking_for":        "Summer 2027 internships — SWE · ML · Data Science (remote / India)",
     "fun_fact":           "I build apps to solve problems I actually have"
@@ -46,8 +47,8 @@ ria = {
 
 | | |
 |---|---|
-| 📄 **2 papers accepted** | **WYA** at EDGEI 2026 (Springer LNNS, Scopus-indexed) · **FairFaceGuard** at IMPACT 2026 (Springer ICT series) |
-| 📤 **4 papers submitted** | TryOn (ANTIC 2026) · VisualGuard (ICIPCN 2027) · HydroDrive-DQN (MARC 2027) · Velaris (ICDSI 2027) |
+| 📄 **3 papers accepted** | **WYA** at EDGEI 2026 (Springer LNNS, Scopus-indexed) · **FairFaceGuard** at IMPACT 2026 (Springer ICT series) · **HydroDrive-DQN** at MARC 2027 (SRHU University, Dehradun) |
+| 📤 **3 papers awaiting decision** | TryOn (ANTIC 2026) · VisualGuard (ICIPCN 2027) · Velaris (ICDSI 2027) |
 | 📜 **IP** | WYA IDF accepted · TryOn and Greywater patent drafts submitted |
 | 🚢 **Shipped** | Production AWS stack (EC2 · S3 · CloudFront · SageMaker) with CI/CD and automated tests |
 
@@ -141,6 +142,29 @@ A research pipeline that audits a deepfake detector across skin-tone groups. Fac
 
 ---
 
+###  HydroDrive-DQN — Adaptive FCEV–Hydrogen Co-Optimization &nbsp; *(Research)*
+
+> *One framework for how a fuel-cell car spends its power and how the hydrogen network behind it is sized.*
+
+🏆 **Paper accepted at MARC 2027** · SRHU University, Dehradun · Paper ID 280 · 21–22 Jan 2027 (camera-ready pending)
+
+A resilience-aware pipeline that couples fuel-cell EV energy management with hydrogen supply-chain planning. NSGA-II sets system-level priorities, a from-scratch NumPy DQN splits power between fuel cell and battery using live hydrogen and renewable context, a genetic algorithm sizes the supply chain, and a 10,000-scenario Monte Carlo run stress-tests demand satisfaction. Benchmarked against rule-based, thermostat, standard-DQN and MILP-style baselines across WLTP, NEDC, US06 and UDDS cycles.
+
+🔗 **[View Project →](https://github.com/ria0304/HydroDrive-DQN)**
+
+```
+✦ From-scratch NumPy Deep Q-Network       ✦ NSGA-II multi-objective priorities
+✦ Genetic-algorithm supply-chain sizing   ✦ 10,000-scenario Monte Carlo resilience test
+✦ WLTP · NEDC · US06 · UDDS drive cycles  ✦ 17 auto-generated figures · Flask dashboard
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![RL](https://img.shields.io/badge/Reinforcement%20Learning-8957E5?style=flat-square)
+
+---
+
 ### Velaris — From Inspiration to Jewellery Design &nbsp; *(Currently Building)*
 
 > *Type it. Sketch it. Upload it. Get a jewellery design you can actually build.*
@@ -171,7 +195,6 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 |--------|-------------|------|
 | [Lumen](https://github.com/ria0304/Lumen) | 32-bit x86 OS from a raw boot sector: paging, preemptive Ring 0/3 multitasking, `fork`/`exec`, 25 syscalls, ATA driver, persistent FS, ELF loader | C · x86 ASM · NASM · QEMU |
 | [VisualGuard](https://github.com/ria0304/VisualGuard-LVLM) | Training-free, decoding-time method that reduces object hallucination in LVLMs by scoring candidate tokens against image evidence · 297 tests | PyTorch · CLIP · Grounding DINO · LLaVA-1.5 |
-| [HydroDrive-DQN](https://github.com/ria0304/HydroDrive-DQN) | Fuel-cell EV energy management + hydrogen infrastructure co-optimization: from-scratch NumPy DQN, NSGA-II, GA, 10,000-scenario Monte Carlo | Python · NumPy · Flask |
 | [₿ Bitcoin Fraud Detection](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | GATv2 + MetaEnsemble stacker on the Elliptic dataset; beats published EvolveGCN baselines on AUC & F1 | PyTorch Geometric · XGBoost |
 | [ApexNet](https://github.com/ria0304/ApexNet) | F1 overtaking prediction — five architectures compared (CNN, GAT, LSTM, CNN+LSTM, CNN+GAT) with a leakage-checked race-level split | PyTorch · FastAPI |
 | [Sports Analytics Dashboard](https://github.com/ria0304/Sports-performance-analytics-dashboard) | Six-tab live dashboard + a Poisson match model validated walk-forward on 14,460 real matches · 160 tests | React 19 · TypeScript · Recharts |
@@ -191,9 +214,9 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 |-------|-------|--------|
 | [ **WYA — From Pixels to Wardrobe:** A Deep Learning and Computer Vision Pipeline for Automated Garment Analysis](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | **EDGEI 2026** · Springer LNNS (Scopus-indexed) · Paper ID 379 · 11–12 Dec 2026 · [Website](https://edgei.org/) | ✅ Accepted · Camera-ready submitted |
 | [ **FairFaceGuard:** An Observational Fairness Audit and a Negative Result on Counterfactual Skin-Tone Control in Deepfake Detection](https://github.com/ria0304/FairFaceGuard) | **IMPACT 2026** · Springer ICT series · BIT Mesra · Paper ID 427 · 4–5 Dec 2026 · [Website](https://impact.bitmsra.ac.in/) | ✅ Accepted · Camera-ready submitted |
+| [ **HydroDrive-DQN:** A Deep Reinforcement Learning Framework for Co-Optimizing Fuel-Cell Electric Vehicle Energy Management and Resilient Hydrogen Supply Chains](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027** · SRHU University, Dehradun · Paper ID 280 · 21–22 Jan 2027 · [Website](https://marc2027.srhu.edu.in/) | ✅ Accepted · Camera-ready pending |
 | [ **TryOn:** Decoupling Fast Outfit Composition from Photorealistic Garment Rendering](https://github.com/ria0304/TryOn) | **ANTIC 2026** · Paper ID 236 · 21–23 Dec 2026 · [Website](https://antic.co.in/) | 📤 Submitted |
 | [ **VisualGuard** — Evidence-Guided Decoding for Reducing Object Hallucination in LVLMs](https://github.com/ria0304/VisualGuard-LVLM) | **ICIPCN 2027** · 21–23 Jan 2027 · [Website](https://icipcn.com/2027/) | 📤 Submitted |
-| [ **HydroDrive-DQN** — Adaptive FCEV–Hydrogen Co-Optimization](https://github.com/ria0304/HydroDrive-DQN) | **MARC 2027** · Paper ID 280 · 21–22 Jan 2027 · [Website](https://marc2027.srhu.edu.in/) | 📤 Submitted |
 | [ **Velaris** — From Inspiration to Jewellery Design](https://github.com/ria0304/Velaris-From-Inspiration-to-Jewellery-Design) | *socpros2027* · Paper ID 107 · 5-7 March 2027 · [Website](https://socpros2027.iitr.ac.in/) | 📤 Submitted |
 | [ **WYA — What's Your Aesthetic:** Journal Extension](https://github.com/ria0304/WYA-Whats-Your-Aesthetic) | *The Computer Journal*, OUP | 🚧 In progress |
 | [ **Temporal Evaluation of Graph-Based and Tabular Learning for Illicit Bitcoin Transaction Detection](https://github.com/ria0304/Bitcoin-Transaction-Fraud-Detection-) | *The Computer Journal*, OUP | 🚧 In progress |
@@ -256,10 +279,10 @@ An AI-powered jewellery design tool that turns text, sketches or inspiration pho
 
 ## 🌱 Currently
 
-- 🏆 **Two papers accepted:** WYA at EDGEI 2026 and FairFaceGuard at IMPACT 2026 (camera-ready in progress) · 📜 WYA IDF accepted at Manipal University Jaipur
-- 📤 Papers under review: **TryOn**, **VisualGuard**, **HydroDrive-DQN**, **Velaris**
+- 🏆 **Three papers accepted:** WYA at EDGEI 2026, FairFaceGuard at IMPACT 2026 and HydroDrive-DQN at MARC 2027 (MARC camera-ready in progress) · 📜 WYA IDF accepted at Manipal University Jaipur
+- 📤 Papers awaiting decision: **TryOn**, **VisualGuard**, **Velaris**
 - 🚧 Writing up the **Bitcoin GNN** and **WYA** journal papers (*The Computer Journal*, OUP)
-- 💎 Building **Velaris** ·  **Lumen** OS · **PaperPilot** · ✦ **Atelier** (fashion-tech hub tying WYA, Luna, TryOn & Velaris together)
+- 💎 Building  **PaperPilot** · 
 - 🎯 Deepening ML: GNNs, causal fairness, LVLM decoding, reinforcement learning
 - 🌐 Exploring backend architecture, API design & cloud infrastructure
 
